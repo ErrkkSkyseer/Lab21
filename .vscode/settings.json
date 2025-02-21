@@ -1,7 +1,3 @@
 {
-    "code-runner.saveFileBeforeRun": true,
-    "code-runner.runInTerminal": true,
-    "code-runner.executorMap": {
-        "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt -lgdi32 && $dir$fileNameWithoutExt"    
-    }
+    "C_Cpp.errorSquiggles": "enabled"
 }
